@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kyilee Bell</h1>
 <h3 align="center">A passionate student wanting to learn software development</h3>
 
-- 🔭 I’m currently working on **BrewBook - The Ultimate Coffee Recipe Book!**
+- 🔭 I’m currently working on **Vellora -- "The value of the journey"!**
 
-- 🌱 I’m currently learning **React, PostgreSQL, Node.js, Express.js**
+- 🌱 I’m currently learning **React Native, & Typescript**
 
 - 👯 I’m looking to collaborate on **projects with others/hackathon projects**
 
